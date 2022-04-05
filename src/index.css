@@ -63,3 +63,7 @@ a {
 a:hover {
   color: var(--main-color);
 }
+
+[class*="col-"] {
+  padding: 0 15px;
+}
