@@ -2,7 +2,7 @@ import React from "react";
 import { Outlet } from "react-router-dom";
 import Sidebar from "../sidebar/Sidebar";
 
-const Layout = () => {
+export const Layout = () => {
   return (
     <div>
       <Sidebar />
@@ -10,5 +10,3 @@ const Layout = () => {
     </div>
   );
 };
-
-export default Layout;

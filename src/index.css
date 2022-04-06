@@ -64,6 +64,10 @@ a:hover {
   color: var(--main-color);
 }
 
+ul {
+  list-style: none;
+}
+
 [class*="col-"] {
   padding: 0 15px;
 }
