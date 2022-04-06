@@ -1,8 +1,8 @@
 import React from "react";
-import { Layout } from "./components";
+import { Router } from "./components";
 
 function App() {
-  return <Layout />;
+  return <Router />;
 }
 
 export default App;
