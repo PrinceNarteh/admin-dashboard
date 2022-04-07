@@ -37,22 +37,22 @@ export const sidebar_routes = [
     icon: <BiBarChartAlt />,
   },
   {
-    display_name: "categories",
+    display_name: "Categories",
     route: "categories",
     icon: <BiListOl />,
   },
   {
-    display_name: "discount",
+    display_name: "Discount",
     route: "discount",
     icon: <BiGift />,
   },
   {
-    display_name: "inventory",
+    display_name: "Inventory",
     route: "inventory",
     icon: <BiStoreAlt />,
   },
   {
-    display_name: "settings",
+    display_name: "Settings",
     route: "settings",
     icon: <BiCog />,
   },
